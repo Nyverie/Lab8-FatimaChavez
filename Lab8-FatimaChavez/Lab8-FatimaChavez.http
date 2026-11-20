@@ -1,0 +1,6 @@
+@Lab8_FatimaChavez_HostAddress = http://localhost:5050
+
+GET {{Lab8_FatimaChavez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
